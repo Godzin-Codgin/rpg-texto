@@ -7,4 +7,4 @@ inline void exibirHeroi(std::string nome, int vida, int ataque) {
     std::cout << "=== HEROI ===" << std::endl;
     std::cout << "Nome: " << nome << " | Vida: " << vida << " | Ataque: " << ataque << std::endl;
 }
-#endif
+#endif // Modificação de teste do herói
