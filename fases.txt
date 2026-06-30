@@ -3,3 +3,6 @@ Objetivo: Derrotar 3 lobos e encontrar a chave da caverna.
 
 Fase 2: A Caverna dos Goblins
 Objetivo: Atravessar as armadilhas e derrotar o Rei Goblin.
+
+Fase 3: O Castelo em Ruínas
+Objetivo: Encontrar o tesouro perdido e escapar antes que o teto desabe.
