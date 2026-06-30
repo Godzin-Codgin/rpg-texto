@@ -1,2 +1,5 @@
 Fase 1: A Floresta Sombria
 Objetivo: Derrotar 3 lobos e encontrar a chave da caverna.
+
+Fase 2: A Caverna dos Goblins
+Objetivo: Atravessar as armadilhas e derrotar o Rei Goblin.
